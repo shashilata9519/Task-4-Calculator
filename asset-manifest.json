@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-4-calculator/static/css/main.b5a7e87f.css",
+    "main.js": "/Task-4-calculator/static/js/main.503fef38.js",
+    "static/js/787.a174f9e5.chunk.js": "/Task-4-calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Task-4-calculator/index.html",
+    "main.b5a7e87f.css.map": "/Task-4-calculator/static/css/main.b5a7e87f.css.map",
+    "main.503fef38.js.map": "/Task-4-calculator/static/js/main.503fef38.js.map",
+    "787.a174f9e5.chunk.js.map": "/Task-4-calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a7e87f.css",
+    "static/js/main.503fef38.js"
+  ]
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+.calculate{
+    width: 330px;
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+   
+}
+#answer{
+    background-color: red;
+    padding: 10px;
+    font-size: 35px;
+    width: 310px;
+    height: 80px;
+    text-align: right;
+    border: none;
+    color: white;
+   float: left;
+}
+.btn{
+    width: 60px;
+    height: 55px;
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;
+    margin: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.btn1{
+    width: 140px;
+}
+.ans{
+    background-color: red;
+    
+    color: white;
+}
+input::placeholder{
+    color: white;
+}
+.set{
+    padding: 5px;
+}
